@@ -1,3 +1,10 @@
+# What is it?
+Auto-Respawn for 1.12.2 is a client-side mod that works on both Singleplayer and Multiplayer worlds
+/autorespawn, /ar, or /respawn can be used to toggle the auto-respawn functionality.
+# Credits
+The initial idea was put forth by u/boxtopy in a post on r/feedthebeast. (https://www.reddit.com/r/feedthebeast/comments/e3xtwf/auto_respawn_mod_for_1122/)
+# Misc
+Feel free to use this mod however you like, whether it be in a modpack or otherwise.
 # A note/story from me
 My freind asked me how to build this plugin. Of course, I couldn't not help him, so I have taken a look on repository, and said "I can try building it, but I don't know will it work..".
 
@@ -18,12 +25,3 @@ Anyways, after installing jdk it still couldn't find it..
 I removed my Java 8(JRE), and added some things in env. vars in Windows.
 
 Now, the build was succesful! And in build/libs I have found an JAR file that I've sent to my freind.
-
-Below is the OG author notes:
-# What is it?
-Auto-Respawn for 1.12.2 is a client-side mod that works on both Singleplayer and Multiplayer worlds
-/autorespawn, /ar, or /respawn can be used to toggle the auto-respawn functionality.
-# Credits
-The initial idea was put forth by u/boxtopy in a post on r/feedthebeast. (https://www.reddit.com/r/feedthebeast/comments/e3xtwf/auto_respawn_mod_for_1122/)
-# Misc
-Feel free to use this mod however you like, whether it be in a modpack or otherwise.
